@@ -23,4 +23,4 @@ A CaImAn environment must be installed and activated prior to running CaImAn_dec
 
 ## Input Data Requirements
 Imaging sessions and cell label sessions should be .raw files with the metadata in an .xml file. The trial imaging session should only be 1 channel, while the cell label session should be 2 channels. 
-Behavioral and stimulation data shoudl be in .abf file format. 
+Behavioral and stimulation data should be in .abf file format. 
